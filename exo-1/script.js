@@ -5,6 +5,7 @@ JQuery est une librairie JS: des moreceaux de codes prêts à l'emploi, mis à d
 Comme mon script JS fera appel à cette librairie, je doit placer le script jquery en amont, afin que la syntaxe jquery que j'utilisera en JS soit reconnue.
 */
 
+// le symbole $() permet de repérer un élément de la librairie JQuery
 $(document).ready(function(){
 	console.log('Je peux maintenant écrire du code jQuery');
 });
