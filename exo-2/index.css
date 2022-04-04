@@ -11,6 +11,14 @@
  }
  /* Set black background color, white text and some padding */
 
+ /* Tester mes sélecteurs*/
+.test{
+    font-style: italic;
+    color:red;
+}
+
+
+
  footer {
      background-color: #555;
      color: white;
